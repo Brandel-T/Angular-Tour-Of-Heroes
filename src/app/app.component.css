@@ -6,12 +6,10 @@ h1 {
 .nav-btn {
   padding: .5rem;
   text-decoration: none;
-  // margin-top: 10px;
   display: inline-block;
   background-color: #e8e8e8;
   color: #3d3d3d;
   border-radius: 7px;
-  // margin-right: 1rem;
 }
 
 nav a {
@@ -26,10 +24,10 @@ nav a {
 }
 
 nav a:focus {
-  color: rgb(18, 158, 214);
+  color: #129ed6;
   font-weight: bold;
 }
-  
+
 nav a:hover {
   color: white;
   background-color: #42545C;
@@ -38,3 +36,4 @@ nav a:hover {
 nav a.active {
   background-color: black;
 }
+/*# sourceMappingURL=app.component.css.map */
